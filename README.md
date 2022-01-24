@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @er-mclo
-- 👀 I’m interested in blokchain protocols and democratization of sync licenses in the music industry
 - 🌱 I’m currently learning quantum computing fundementals and Q#
 - 💞️ I’m looking to collaborate on blockchain protocols
 - 📫 How to reach me: Discord ---> er.mclo#6142
