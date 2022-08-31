@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @er-mclo
-- 🌱 I’m currently learning quantum computing fundamentals and Q#
+- 🌱 Blockchain dev and music biz consultant
 - 💞️ I’m looking to collaborate on blockchain protocols
 - 📫 How to reach me: Discord ---> er.mclo#6142
 
